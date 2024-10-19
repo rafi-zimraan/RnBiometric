@@ -24,6 +24,14 @@
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+
+	<!-- <i— Face ID & Touch I0 Biometric —>  -->
+	<key>NSFaceTDUsageDescription</key>
+	<string>We need to sign in appe</string>
+	<Key>NSTouchTDUsageDescription</Key>
+	<string>We need to sign in appl</strind>
+	<!-- <i— Face ID & Touch I0 Biometric —>  -->
+
 	<key>NSAppTransportSecurity</key>
 	<dict>
 	  <!-- Do not change NSAllowsArbitraryLoads to true, or you will risk app rejection! -->
